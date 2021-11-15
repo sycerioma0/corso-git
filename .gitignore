@@ -1,0 +1,4 @@
+# Commenti con il cancelletto
+# Escludere un file dalla regola: !file.txt
+temp
+*.log
